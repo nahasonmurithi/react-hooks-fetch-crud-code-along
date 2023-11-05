@@ -35,6 +35,54 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "cookie",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "burger",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "pork",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 9
+    },
+    {
+      "name": "mutton",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 10
+    },
+    {
+      "name": "kiwi",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 11
+    },
+    {
+      "name": "kiwi",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 12
+    },
+    {
+      "name": "kiwi",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 13
+    },
+    {
+      "name": "kiwi",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 14
     }
   ]
 }
